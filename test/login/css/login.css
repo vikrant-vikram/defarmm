@@ -1,0 +1,43 @@
+.loginform{
+    padding-top:20vh;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+.row{
+    
+    min-height: 60vh;
+}
+
+.register
+{
+    background-color: green;
+    background-image: url("../register.jpg");
+    background-size: cover;
+    min-height: 60vh;
+    background-repeat: no-repeat;
+
+}
+
+input{
+    color: green;
+    border: none;
+    border-bottom:thin green solid ;
+    background: transparent;
+}
+
+
+
+.vertical-center
+{
+    color: white;
+    padding-top: 30%;
+
+}
+
+.register-info
+{   
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: smaller;
+}
