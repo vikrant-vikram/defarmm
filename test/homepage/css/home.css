@@ -1,0 +1,48 @@
+body{
+    color: lightslategray;
+    overflow-x: hidden;
+    background-color: #C4E8C4;
+}
+
+.image-container{
+    background-color: red;
+    height:100vh;
+    background-image: url("../2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-weight: bolder;
+    color: #358152;
+}
+.info-container{
+    color:lightslategray;
+    padding-top:30vh;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.what .container .row{
+    margin-top: 10px;
+    min-height: 33vh;
+}
+
+.what .container .row h2{
+    margin-top:11vh
+}
+.what .container .row p{
+    margin-top:7vh;
+}
+
+h1,h2,h3,h4,h5{
+    color: #358152;
+}
+p{
+    color:lightslategray;
+
+}
+/* .image-container img{
+
+    object-fit: cover;
+} */
